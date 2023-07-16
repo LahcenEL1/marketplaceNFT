@@ -11,7 +11,7 @@ sm:text-5xl
 md:leading-normal	
 '>
     
-    Enjoy 15% sale<br/>this Friday</h1>
+    Enjoy 15% sale</h1>
 <p className='leading-loose		 text-slate-300 text-sm antialiased font-sans'>Welcome to HeroChain</p>
 </div>
         {/* text */}

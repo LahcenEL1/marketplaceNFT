@@ -22,7 +22,7 @@ export const Hero = () => {
 <h1 className='text-[40px] leading-[48px] sm:text-[72px] sm:leading-[81px] font-bold	"
 '>
     
-    Enjoy 15% sale<br/>this Friday</h1>
+    Enjoy 15% sale</h1>
 <p className='text-gray-800  max-w-[500px] text-xl mb-4'>
 Welcome to HeroChain
   </p>

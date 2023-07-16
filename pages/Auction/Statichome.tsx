@@ -13,8 +13,8 @@ const Statichome = () => {
     <h1 className='text-[40px] leading-[48px] sm:text-[72px] sm:leading-[81px] font-bold	"
     '>
         
-        Enjoy 15% sale<br/>this Friday</h1>
-    <p className='leading-loose		 text-blacktext-sm antialiased font-sans'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+        Enjoy 15% sale</h1>
+    <p className='leading-loose		 text-blacktext-sm antialiased font-sans'>Welcome to HeroChain</p>
     
     </div>
     
